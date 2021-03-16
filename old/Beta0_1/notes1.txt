@@ -1,0 +1,39 @@
+Notes ----  BETA VERSION 0.1-.9
+
+Landmass
+
+Currently there is no name for the country in which Harrow is set, but the two counties are 
+Greymere and Loneford. Each county contains numerous towns, all interconnected by paths and 
+roads. The two counties are connected by a single main road between a town of each. 
+(0.3 Beta: The country is now called "Gamut" (Gah-moot).)
+
+
+Harrow's story takes place within Greymere County (particularly its north-western side). 
+
+
+---REF MAPBETA01.gif
+Beta 0.3 - MAP: Clockwise: Greymere County (NW), Barrenridge Wilderness (NE), 
+Loneford County (SE, S), Edge Island (SW). 
+---
+
+Beta 0.9 
+"A horror suspense story centered around Lake Greymere and its eponymous county."
+
+
+---REF MAPBETA01.gif
+Map of Greymere County. The large blue mass to the northwest is Lake Greymere. The areas in 
+red represent everything outside this county. The isle to the southwest, Edge Island, is not 
+part of the county, but is related to its story. 
+----
+
+Greymere County h Inhabitants of either county are known to hold a copy of "The Map" (Beta 
+Map seen above). This map portrays both counties, their limits and the near surrounding area. 
+Whereas the map notes where the user is standing, it stops doing so upon reaching the map 
+borders. Areas outside those drawn on the map are known by locals as The Limits.
+
+Edge Island is a small landmass to the Southwest. Few people have managed to reach its shores,
+and no one travelling there has ever come back. Home to what the locals call "The Abyss".
+
+------Synopsis Beta 0.1 
+A Silent Hill inspired Minecraft map, complete with original story. Set in the coastal towns 
+surrounding Lake Greymere, Greymere County.
