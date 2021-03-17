@@ -1,0 +1,16 @@
+---Beta 1.0 - STORY/ELEMENT
+
+ELEMENT - MAP - POINT NORTH
+
+Location 
+
+Since this worlds northernmost point is very close to its civilisation, using compasses 
+here works differently. Every surround area around Point North is geometrically south. 
+Because of this directions often have DS (Desert South, heading toward Reo), HS (Hielo 
+South, heading toward the Descon Isles) and GS (Green South, heading toward Lakeside). 
+This only applies to directions. For example, Reo is Desert South, but Isla Norte is 
+Hielo South. Other than compasses, the "North" of this world is considered the maps 
+northern most point, rather than the true north itself. This would unintentionally work 
+to the Descon favour during the Desconadia-Gamut War when Gamut soldiers found it impossible 
+to map and use directions after having invaded Port Landing. It played a key role in the 
+failure of the invasion.

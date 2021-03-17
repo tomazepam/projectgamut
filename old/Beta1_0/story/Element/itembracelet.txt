@@ -1,0 +1,12 @@
+---Beta 1.0 - STORY/ELEMENT
+
+ELEMENT - Item - Lea's Bracelet 
+
+Object - String 
+
+A homemade friendship bracelet. 
+
+"A handmade bracelet my daughter gave me. I kept it tied to my wrist before 
+I got here. It's the only thing left of the old world and she's the only thing 
+I can remember. I'm going to keep her here. I don't want to lose the last piece of 
+my old life in this place."

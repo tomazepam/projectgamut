@@ -1,0 +1,9 @@
+---Beta 1.0 - STORY/ELEMENT
+
+ELEMENT - Item - Cabins 
+
+Text 
+
+"When I discover new towns, I find somewhere to stay. I mark these with a blue sign. 
+If you spot this sign, go inside. I've left provisions and equipment in case you're 
+in need. I hope this message finds you well."
